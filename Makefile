@@ -44,3 +44,7 @@ install: install_dulwich install_mimer install_gittle
 	./install_kivy_stable_virtualenv.sh
 	$(PIP) install -r requirements.txt
 
+.PHONY: run
+run:
+	$(PY) $(PROJECT_DIR)/main.py
+
