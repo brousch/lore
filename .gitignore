@@ -1,0 +1,14 @@
+*.pyc
+*.pyo
+.buildozer
+bin
+buildozer
+venv
+
+lore/dulwich
+lore/gittle
+lore/mimer
+
+
+.komodotools
+*.komodoproject

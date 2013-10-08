@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="C:\Users\ben\Projects\cleverdriptimer\cleverdriptimer\media\icon-48.png"
+   inkscape:export-xdpi="8.4399996"
+   inkscape:export-ydpi="8.4399996">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3757">
+      <stop
+         style="stop-color:#c87137;stop-opacity:1;"
+         offset="0"
+         id="stop3759" />
+      <stop
+         style="stop-color:#a05a2c;stop-opacity:1;"
+         offset="1"
+         id="stop3761" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3757"
+       id="radialGradient3021"
+       gradientUnits="userSpaceOnUse"
+       cx="-655.69122"
+       cy="234.07648"
+       fx="-655.69122"
+       fy="234.07648"
+       r="256" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3757"
+       id="radialGradient3003"
+       gradientUnits="userSpaceOnUse"
+       cx="-655.69122"
+       cy="234.07648"
+       fx="-655.69122"
+       fy="234.07648"
+       r="256"
+       gradientTransform="translate(-5.7890625e-5,600)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="360.31061"
+     inkscape:cy="-46.866703"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="1592"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(911.69122,21.923527)">
+    <rect
+       style="color:#000000;fill:url(#radialGradient3021);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:51.20000076;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2985"
+       width="512"
+       height="512"
+       x="-911.69122"
+       y="-21.923527"
+       rx="25.6"
+       ry="25.6" />
+    <text
+       xml:space="preserve"
+       style="font-size:59.01101303px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bookman Old Style;-inkscape-font-specification:Bookman Old Style Light"
+       x="-1333.749"
+       y="279.82971"
+       id="text2993"
+       sodipodi:linespacing="125%"
+       transform="scale(0.65114582,1.5357543)"><tspan
+         sodipodi:role="line"
+         id="tspan2995"
+         x="-1333.749"
+         y="279.82971"
+         style="font-size:368.81884766px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dutch801 Rm BT;-inkscape-font-specification:Dutch801 Rm BT">ICT</tspan></text>
+    <rect
+       ry="25.6"
+       rx="25.6"
+       y="578.07648"
+       x="-911.69122"
+       height="512"
+       width="512"
+       id="rect2997"
+       style="color:#000000;fill:url(#radialGradient3003);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:51.20000076;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="C:\Users\ben\Projects\cleverdriptimer\cleverdriptimer\media\loading-512.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       transform="scale(0.69697982,1.4347618)"
+       sodipodi:linespacing="125%"
+       id="text2999"
+       y="664.99579"
+       x="-1246.0406"
+       style="font-size:55.13039398px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bookman Old Style;-inkscape-font-specification:Bookman Old Style Light"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\ben\Projects\cleverdriptimer\cleverdriptimer\media\loading-512.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:344.56497192px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dutch801 Rm BT;-inkscape-font-specification:Dutch801 Rm BT"
+         y="664.99579"
+         x="-1246.0406"
+         id="tspan3001"
+         sodipodi:role="line">ICT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:34.84201813px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bookman Old Style;-inkscape-font-specification:Bookman Old Style Light"
+       x="-793.63922"
+       y="1128.4952"
+       id="text3005"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0788004,0.92695557)"
+       inkscape:export-filename="C:\Users\ben\Projects\cleverdriptimer\cleverdriptimer\media\loading-512.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3007"
+         x="-793.63922"
+         y="1128.4952"
+         style="font-size:62.71563339px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dutch801 Rm BT;-inkscape-font-specification:Dutch801 Rm BT Italic"><tspan
+           style="font-size:87.1050415px"
+           id="tspan3009">Loading ..</tspan><tspan
+           style="font-size:87.1050415px"
+           id="tspan3017">.</tspan></tspan></text>
+  </g>
+</svg>
