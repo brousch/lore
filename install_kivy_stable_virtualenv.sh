@@ -14,7 +14,7 @@ rm -rf pygame
 
 venv/bin/pip install kivy
 
-git clone https://github.com/brousch/buildozer.git
+git clone https://github.com/kivy/buildozer.git
 cd buildozer
 ../venv/bin/python setup.py install
 cd ..
